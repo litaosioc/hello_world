@@ -2,3 +2,4 @@
 My first Github project
 
 This is the first project of Rocky Li in GitHub.
+:🪗, ::coffee, ::dancing.
